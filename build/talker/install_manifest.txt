@@ -1,0 +1,16 @@
+/home/nimrod/Documents/pubsub_ws/install/talker/LIB/talker/talker
+/home/nimrod/Documents/pubsub_ws/install/talker/share/ament_index/resource_index/package_run_dependencies/talker
+/home/nimrod/Documents/pubsub_ws/install/talker/share/ament_index/resource_index/parent_prefix_path/talker
+/home/nimrod/Documents/pubsub_ws/install/talker/share/talker/environment/ament_prefix_path.sh
+/home/nimrod/Documents/pubsub_ws/install/talker/share/talker/environment/ament_prefix_path.dsv
+/home/nimrod/Documents/pubsub_ws/install/talker/share/talker/environment/path.sh
+/home/nimrod/Documents/pubsub_ws/install/talker/share/talker/environment/path.dsv
+/home/nimrod/Documents/pubsub_ws/install/talker/share/talker/local_setup.bash
+/home/nimrod/Documents/pubsub_ws/install/talker/share/talker/local_setup.sh
+/home/nimrod/Documents/pubsub_ws/install/talker/share/talker/local_setup.zsh
+/home/nimrod/Documents/pubsub_ws/install/talker/share/talker/local_setup.dsv
+/home/nimrod/Documents/pubsub_ws/install/talker/share/talker/package.dsv
+/home/nimrod/Documents/pubsub_ws/install/talker/share/ament_index/resource_index/packages/talker
+/home/nimrod/Documents/pubsub_ws/install/talker/share/talker/cmake/talkerConfig.cmake
+/home/nimrod/Documents/pubsub_ws/install/talker/share/talker/cmake/talkerConfig-version.cmake
+/home/nimrod/Documents/pubsub_ws/install/talker/share/talker/package.xml

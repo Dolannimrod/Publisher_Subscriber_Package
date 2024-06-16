@@ -1,0 +1,10 @@
+/home/nimrod/Documents/pubsub_ws/build/talker/CMakeFiles/uninstall.dir
+/home/nimrod/Documents/pubsub_ws/build/talker/CMakeFiles/talker_uninstall.dir
+/home/nimrod/Documents/pubsub_ws/build/talker/CMakeFiles/talker.dir
+/home/nimrod/Documents/pubsub_ws/build/talker/CMakeFiles/test.dir
+/home/nimrod/Documents/pubsub_ws/build/talker/CMakeFiles/edit_cache.dir
+/home/nimrod/Documents/pubsub_ws/build/talker/CMakeFiles/rebuild_cache.dir
+/home/nimrod/Documents/pubsub_ws/build/talker/CMakeFiles/list_install_components.dir
+/home/nimrod/Documents/pubsub_ws/build/talker/CMakeFiles/install.dir
+/home/nimrod/Documents/pubsub_ws/build/talker/CMakeFiles/install/local.dir
+/home/nimrod/Documents/pubsub_ws/build/talker/CMakeFiles/install/strip.dir
